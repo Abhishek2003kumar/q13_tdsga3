@@ -23,6 +23,6 @@ jobs:
       - name: Install Playwright browsers
         run: npx playwright install chromium
 
-      - name: Run QA scraper - 23f30036@ds.study.iitm.ac.in
+      - name: Run QA scraper - 23f3003655@ds.study.iitm.ac.in
         run: node scraper.js
 ndc-vctf-oxs
